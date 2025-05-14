@@ -1,0 +1,29 @@
+.logo img{
+	height: 100px;
+}
+
+.menu{
+	font-weight: 600;
+	text-transform: uppercase;
+	padding: 0 20px !important;
+	border-left: 1px solid #777 !important;
+	font-size: 20px !important;
+}
+
+.menu:first-child{
+	border-left: none !important;
+}
+
+.menu a{
+	color: #777;
+	text-decoration: none;
+}
+
+.menu a:hover{
+	opacity: .7;
+}
+
+.servico img{
+	width: 80%;
+	height: 80%;
+}
